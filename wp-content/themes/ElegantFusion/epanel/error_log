@@ -1,0 +1,1 @@
+[14-Mar-2014 11:32:50 America/Chicago] PHP Fatal error:  Call to undefined function add_custom_background() in /home3/dchome/public_html/wp-content/themes/ElegantFusion/epanel/custom_functions.php on line 4
